@@ -45,4 +45,27 @@
  -  Using a catplot() generate visualization for the "product line" on x-axis, quantity on the y-axis, and hue as gender.
  -  repeat the step above using Total on the Y-axis.
  -  Interaction between unit price and quantity of goods purchased, product line and quantity of goods by each gender.
+## Step 7- Insights.
+ From the visualization charts it is observed that:
+  - The Lagos Branch has the most sales.
+  - Males spend more in Abuja and Lagos, while Females spend more in Port Harcourt
+  - The most used payment method for the supermarket is E-pay.
+  - The most used Payment Method for the branch A, B is E-pay while C is Cash.
+  - Females in Port Harcourt spend more on Food and Beverages, Males in Port Harcourt spend more on Health and Beauty.
+  - Females in Abuja spend more on Food and Beverages, Males in Abuja spend more on Electronic Assesories.
+  - Females in Lagos spend more on Food and Beverages, Males in Lagos spend more on Health And Beauty.
+  - The Highest sold product line is Fashion Assesories
+  - The most used Payment Channel for the product lines are listed below:
+    Food and Beverages - Card
+    Fashion Accessories- Epay
+    Electronic Accessories- Cash
+    Sports and Travel- Cash
+    Home and Lifestyle- Epay
+    Health and Beauty- Epay
+  - Branch B has the lowest Rating.
+  - Females purchase more of every Product Line except for Health and Beauty.
+  - On the Average Females Spend more on all product Line except Sports and Travel, Health And Beauty.
+  - On the Average Males Spends more on expensive product lines except for Food and Beverages, Home and Lifestyle.
+  - The Unit Price, Quantity, Gross Income, Total, cog are positively correlated.
+  - The time with the most sales in the Supermarket is 7Pm.
 
