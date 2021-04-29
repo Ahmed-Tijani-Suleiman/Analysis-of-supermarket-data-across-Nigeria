@@ -21,16 +21,28 @@
  - Result that shows an array that contains the unique sales hours.
 
 ## Step 4 - Unique Values in Columns
- - Appropriate method to generate the unique values in the categorical columns (apart from the example - Branch column).
+ - Appropriate method to generate the unique values in the categorical columns.
  - Generated the count figure of the categorical values using the value_counts() method.
 
 ## Step 5 - Aggregation with GroupBy
  - A groupby object with the "City Column", and aggregation function of sum and mean.
  - A table that shows the gross income of each city, and determines the city with the highest total gross income.
- - Optional - Use of appropriate methods & descriptions to explore other columns such as Unit Price, Quantity.
+ - Groupby product line and generate the totals each product line.
+ - groupby gender and generate totals spent by each gender.
+ - Groupby month and determine the month with the highest sales.
+ - generate a distplot of the quantity of goods purchased.
 
 ## Step 6 - Data Visualization
  - Appropriate use of countplot to determine the branch with the highest sales record.
- - Optional - Appropriate use of countplot to determine the most used payment method & city with the most sales.
+ - Appropriate use of countplot to determine the most used payment method & city with the most sales.
+ - To determine the gender that spends most for each city.
+ - To determine the most used payment method for each branch.
+ - to determine the product line females in port harcourt spends the most on.
  - Appropriate use of countplot to determine the highest & lowest sold product line.
- - Result that shows the Payment channel used by most customers to pay for each product line. Chart should also show the "product line" column on the Y-axis, and the "hue" parameter for the "Payment" column. 
+ - Result that shows the Payment channel used by most customers to pay for each product line. Chart should also show the "product line" column on the Y-axis, and the "hue" parameter for the "Payment" column.
+ -  To determine the branch with the lowest rating.
+ -  To determine the product line each gender spends most on in the supermarket.
+ -  Using a catplot() generate visualization for the "product line" on x-axis, quantity on the y-axis, and hue as gender.
+ -  repeat the step above using Total on the Y-axis.
+ -  Interaction between unit price and quantity of goods purchased, product line and quantity of goods by each gender.
+
