@@ -56,12 +56,12 @@
   - Females in Lagos spend more on Food and Beverages, Males in Lagos spend more on Health And Beauty.
   - The Highest sold product line is Fashion Assesories
   - The most used Payment Channel for the product lines are listed below:
-    Food and Beverages - Card
-    Fashion Accessories- Epay
-    Electronic Accessories- Cash
-    Sports and Travel- Cash
-    Home and Lifestyle- Epay
-    Health and Beauty- Epay
+    Food and Beverages - Card, 
+    Fashion Accessories- Epay, 
+    Electronic Accessories- Cash, 
+    Sports and Travel- Cash, 
+    Home and Lifestyle- Epay, 
+    Health and Beauty- Epay.
   - Branch B has the lowest Rating.
   - Females purchase more of every Product Line except for Health and Beauty.
   - On the Average Females Spend more on all product Line except Sports and Travel, Health And Beauty.
