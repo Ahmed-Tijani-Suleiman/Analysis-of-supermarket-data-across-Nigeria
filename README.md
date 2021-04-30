@@ -68,4 +68,5 @@
   - On the Average Males Spends more on expensive product lines except for Food and Beverages, Home and Lifestyle.
   - The Unit Price, Quantity, Gross Income, Total, cog are positively correlated.
   - The time with the most sales in the Supermarket is 7Pm.
+## Future Work
 
