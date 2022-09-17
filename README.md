@@ -53,11 +53,4 @@
 ## Future Work
   - Working with a data set that will require the application of data cleaning techniques.
   - Apply machine learning models to get more information and to make predictions.
-## Stand Out Section
-  - Checking the correlation between variables and visualizing using heatmap().
-  - Checking the Spread of the Quantity of goods bought.
-  - To determine the gender that spends more for the cities
-  - To determine the product line each gender spends most on for the cities.
-  - Checking if the customer type influences sales.
-  - To determine the Peak sales hour.
-  
+
