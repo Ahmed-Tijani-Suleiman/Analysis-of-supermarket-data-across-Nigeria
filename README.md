@@ -1,4 +1,4 @@
-# ANALYSIS OF SUPERMARKET DATA ACROSS THE COUNTRY FOR COMPANY XYZ.
+# ANALYSIS OF SUPERMARKET DATA ACROSS THE COUNTRY.
 ## Step 1 - Loading Datasets
  - Correct use of pathname pattern - glob
  - Combine all the files generated in a list and export to a CSV.
